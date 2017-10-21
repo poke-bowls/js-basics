@@ -1,3 +1,4 @@
+console.log('LE TEST');
 /* Create a `myName` variable and assign it a String value */
 var myName = "Mufasa";
 /* Create a `person` variable and give it 2 properties,
